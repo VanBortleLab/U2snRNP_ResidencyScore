@@ -1,0 +1,1 @@
+/home/labs/kvbortle_lab/sihangz2/RNAseq/snar_kd_ym155_mRNA/star/sisnar_2_mRNA_2Aligned.sortedByCoord.out.bam,/home/labs/kvbortle_lab/sihangz2/RNAseq/snar_kd_ym155_mRNA/star/sisnar_2_mRNA_1Aligned.sortedByCoord.out.bam,/home/labs/kvbortle_lab/sihangz2/RNAseq/snar_kd_ym155_mRNA/star/sisnar_2_mRNA_3Aligned.sortedByCoord.out.bam
