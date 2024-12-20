@@ -23,5 +23,15 @@ head(df)
 
 Run `df` through the example [code](https://github.com/VanBortleLab/U2snRNP_ResidencyScore/blob/main/code.R) to get the U2 snRNP residency p.value  
 # Data deposit
-Our U2 residency p.value over all introns can be found through zenodo
+Our U2 residency p.value over all introns is available for download via [Zenodo](https://zenodo.org/records/13760839) 
+# Underlying data
+| Protein | Cell Line | Type   | Read 1         | Read 2         |
+|---------|-----------|--------|----------------|----------------|
+| SF3A3   | HepG2     | PAIRED | SRR5111429_1   | SRR5111429_2   |
+| SF3A3   | HepG2     | PAIRED | SRR5111430_1   | SRR5111430_2   |
+| SF3B4   | K562      | PAIRED | SRR5111338_1   | SRR5111338_2   |
+| SF3B4   | K562      | PAIRED | SRR5111339_1   | SRR5111339_2   |
+| SF3B4   | HepG2     | PAIRED | SRR5111367_1   | SRR5111367_2   |
+| SF3B4   | HepG2     | PAIRED | SRR5111368_1   | SRR5111368_2   |
+
 
