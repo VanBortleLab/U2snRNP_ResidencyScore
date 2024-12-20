@@ -22,5 +22,6 @@ head(df)
 | chr1 | 100010904 | 100010913 | chr1_100007156_100011364_ENSG00000283761/clean  | 0    | +      | 0                          | 0                          | 0                          | 0                          |
 
 Run `df` through the example [code](https://github.com/VanBortleLab/U2snRNP_ResidencyScore/blob/main/code.R) to get the U2 snRNP residency p.value  
-# Data
+# Data deposit
+Our U2 residency p.value over all introns can be found through zenodo
 
